@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:36:29.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="n9plkwR7Aj4pqUpNL0dA" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T12:32:36.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="kQpFAl2dvT2uThm9kw9M" version="21.3.0" type="github">
   <diagram name="第 1 页" id="NGaYdp4NzxHwyvM-AVmB">
-    <mxGraphModel dx="1675" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="324" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="VTWRcrDlexA1xvFoJJcc-30" value="&lt;b&gt;云集&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="1848.75" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VTWRcrDlexA1xvFoJJcc-31" value="同期算法（日期+结构）" style="html=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="VTWRcrDlexA1xvFoJJcc-31" value="同期算法（能力+结构）" style="html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="930" y="1873.75" width="278.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="VTWRcrDlexA1xvFoJJcc-32" value="" style="html=1;strokeColor=none;" parent="1" vertex="1">
