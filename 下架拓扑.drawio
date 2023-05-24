@@ -1,9 +1,262 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T00:36:00.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" version="21.3.2" etag="TPFa3Ey6DSO7tkmASRyJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T02:36:58.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="pAHrAD0ioL0yryM0DKbl" version="21.3.2" type="github">
   <diagram name="第 1 页" id="dd9n72ojKjCMeyAuzoJM">
-    <mxGraphModel>
+    <mxGraphModel dx="4001" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CStQeyzi_VtPoereYXox-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1668" width="1078" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-2" value="TOC 下架业务拓扑图" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="89" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-4" value="W01成品仓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="89" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-7" value="销补商品" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="129" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-8" value="留仓商品" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="219" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1300" y="199" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="60" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-18" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="80" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-915" y="274" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-39" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-925" y="306" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-41" value="1. 库存商品状态机" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-69" value="下架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="169" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="350" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-71" value="3. 下架相关算法" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-72" value="3.1）下架货位匹配策略" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-1593" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-73" value="3.2） 下架操作策略（如库位最短路径等）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-1593" y="430" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-74" value="3.3） 下架差异处理" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-1593" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1447" y="89" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-78" value="W04储物仓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1447" y="89" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-79" value="库位1" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1432" y="129" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-80" value="库位2" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="129" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-81" value="库位4" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="189" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-82" value="库位3" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1432" y="189" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-83" value="库位&lt;br&gt;..." style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1432" y="249" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-84" value="库位&lt;br&gt;..." style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="249" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1610" y="105" as="sourcePoint" />
+            <mxPoint x="-1610" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-93" value="1. 待下架商品按&lt;br&gt;下架货位匹配策略匹配库位" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="88" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-94" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1610" y="173" width="230" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="7.565217391304349" as="sourcePoint" />
+            <mxPoint y="58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-96" value="2. 按下架策略生成&lt;br&gt;下架待办通知" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CStQeyzi_VtPoereYXox-94">
+          <mxGeometry y="-5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1610" y="267" as="sourcePoint" />
+            <mxPoint x="-1610" y="311.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-98" value="3. 执行下架生成E3&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;移仓单&lt;br&gt;，并更新商品库存。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="256" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-99" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1120" y="205.5" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-100" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="60" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-102" value="进分拣机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="175.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-103" value="TOC 下架业务拓扑图" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="89" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-105" value="W01成品仓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="89" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-106" value="销补商品" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="129" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-107" value="留仓商品" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="219" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-108" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1300" y="199" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-109" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="60" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-110" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-111" value="下架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="169" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-112" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1447" y="89" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-113" value="W04储物仓" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1447" y="89" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-114" value="库位1" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1432" y="129" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-115" value="库位2" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="129" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-116" value="库位4" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="189" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-117" value="库位3" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1432" y="189" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-118" value="库位&lt;br&gt;..." style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1432" y="249" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-119" value="库位&lt;br&gt;..." style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="249" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-120" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1120" y="205.5" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-120">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="60" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="CStQeyzi_VtPoereYXox-120">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-123" value="进分拣机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="175.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CStQeyzi_VtPoereYXox-148" target="CStQeyzi_VtPoereYXox-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-148" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="155.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-152" value="库存SKU &lt;br&gt;是否可用" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-153" value="Y：可用" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="CStQeyzi_VtPoereYXox-152" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-760.0000000000002" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-154" value="N：不可用" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="CStQeyzi_VtPoereYXox-152" parent="1" target="CStQeyzi_VtPoereYXox-38">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-900" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-157" value="待下架" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="139" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-159" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="CStQeyzi_VtPoereYXox-157" parent="1" target="CStQeyzi_VtPoereYXox-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680" y="259" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-715" y="240" />
+              <mxPoint x="-715" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CStQeyzi_VtPoereYXox-160" target="CStQeyzi_VtPoereYXox-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-160" value="已下架" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="259" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-164" value="执行下架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-715" y="213" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CStQeyzi_VtPoereYXox-165" value="不可用表示该SKU已被（预）占" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="84" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
