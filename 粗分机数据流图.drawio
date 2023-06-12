@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" modified="2023-06-12T13:23:25.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="B0pWQLKPE3tWsHVN7XCU" version="21.3.7" type="github">
+  <diagram name="第 1 页" id="-L2QICK7MvGwOsS644yR">
+    <mxGraphModel dx="1781" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gA1SLpwSG2CuL92058tD-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#a19b9b;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-1160" width="830" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-32" value="云集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-802" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-33" value="任务队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-1130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-34" value="分拣任务1（采购到货）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-1090" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-35" value="分拣任务2（二次分拣）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-1050" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-36" value="分拣任务……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-1010" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-37" value="分拣任务n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-970" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-38" value="粗分软件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-184" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-39" value="云集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-802" y="-1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-40" value="codermaster&lt;br&gt;读码平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-184" y="-925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-41" value="E3系统" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-802" y="-925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gA1SLpwSG2CuL92058tD-40" target="gA1SLpwSG2CuL92058tD-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-104" y="-970" as="sourcePoint" />
+            <mxPoint x="-54" y="-1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-43" value="串口/HTTP&lt;br&gt;等协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-1010" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gA1SLpwSG2CuL92058tD-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-682" y="-1070" as="sourcePoint" />
+            <mxPoint x="-582.0000000000001" y="-1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gA1SLpwSG2CuL92058tD-38" target="gA1SLpwSG2CuL92058tD-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-234" y="-1060" as="sourcePoint" />
+            <mxPoint x="-303.9999999999998" y="-1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-46" value="粗分结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-47" value="分拣结果1（采购到货）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-850" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-48" value="分拣结果2（二次分拣）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-810" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-49" value="分拣结果……" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-770" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-50" value="分拣结果n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-730" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520" y="-840" as="sourcePoint" />
+            <mxPoint x="-700" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-169.99999999999955" y="-1030" as="sourcePoint" />
+            <mxPoint x="-349.99999999999955" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-53" value="4.分拣处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="-980" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-54" value="RS485协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="-269" y="-959" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-55" value="3.读取&lt;br&gt;条码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-1010" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gA1SLpwSG2CuL92058tD-39" target="gA1SLpwSG2CuL92058tD-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-480" y="-830" as="sourcePoint" />
+            <mxPoint x="-430" y="-880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-57" value="更新商品&lt;br&gt;进货单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="-999" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-58" value="1. 导入分拣任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-1100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-59" value="2. 获取分拣任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-1100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-60" value="5. 记录粗分结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-965" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gA1SLpwSG2CuL92058tD-61" value="粗分机数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-1160" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
