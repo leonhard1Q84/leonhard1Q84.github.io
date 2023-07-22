@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T01:06:21.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.6.5" etag="DPEuM9m3BlixLm5Oekmz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T02:15:51.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="FQ3Ogltv27qhY32vnhpx" version="21.6.5" type="github">
   <diagram name="第 1 页" id="PUstUAFNBoqAgY0fBdjK">
-    <mxGraphModel>
+    <mxGraphModel dx="2129" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="490" width="895" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-44" value="" style="whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-45" value="动作/预测层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#6a00ff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-47" value="调度动作" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#e1d5e7;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="545" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-48" value="陈列动作" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#e1d5e7;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="314" y="545" width="96" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-49" value="营销动作" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#e1d5e7;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="453" y="545" width="87" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-50" value="动态层" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#1ba1e2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="610" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-52" value="销售标签" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#dae8fc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="614" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-53" value="库存标签" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#dae8fc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="370" y="614" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-54" value="营收标签" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#dae8fc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="643" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-55" value="商品生命周期" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#dae8fc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="370" y="643" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-56" value="运营干预标签" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#dae8fc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="643" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-57" value="采购标签" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#dae8fc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="614" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-58" value="静态层" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#f0a30a;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-60" value="属性特征" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#fff2cc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="690" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-61" value="风格定义" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#fff2cc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="314" y="690" width="95" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-62" value="经营策略" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#fff2cc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="453" y="690" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-63" value="数据来源" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#60a917;" vertex="1" parent="1">
+          <mxGeometry x="140" y="750" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-65" value="商品档案" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.263407389322907;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="755" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-66" value="进销存记录" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.263407389322907;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="755" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-67" value="运营干预记录" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.263407389322907;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="460" y="755" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-68" value="相关外部数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.263407389322907;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="590" y="755" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-69" value="……" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#fff2cc;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="590" y="690" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-70" value="基于经营策略产生/&lt;br&gt;商品自身具备的标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#eeeeee;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="750" y="681" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-71" value="标签数据来源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#eeeeee;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="750" y="750" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-72" value="商品经营过程中产生的标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#eeeeee;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="750" y="610" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-73" value="在静态标签限制下，分析动态标签状态而产生的预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#eeeeee;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="750" y="540" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=11.759259259259258;endSize=8.50925925925926;endWidth=11.843151876708923;fillColor=#cdeb8b;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="805" as="sourcePoint" />
+            <mxPoint x="730" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-75" value="Ugoos商品标签体系V1.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="18" y="501" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fUYKzvuDa3MBQrwLaAY5-76" value="……" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=#e1d5e7;strokeColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="590" y="547.5" width="87" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
