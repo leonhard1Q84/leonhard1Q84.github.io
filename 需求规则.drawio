@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T12:11:23.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="axUZgeZgLZXzSK0NTxuW" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T12:13:48.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="TDq4_i8XB_SHbR5M-R4K" version="21.6.7" type="github">
   <diagram name="第 1 页" id="GlqfTS8_M40UGAXC7Djb">
-    <mxGraphModel dx="1733" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3465" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="plGlUH5s6CTPv3xWeVoY-163" value="基于商品生命周期归类的需求量计算规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plGlUH5s6CTPv3xWeVoY-164" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="plGlUH5s6CTPv3xWeVoY-164" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="180" y="70" width="880" height="400" as="geometry" />
         </mxCell>
         <mxCell id="plGlUH5s6CTPv3xWeVoY-165" value="1. 导入期需求量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
         <mxCell id="plGlUH5s6CTPv3xWeVoY-175" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;销&lt;br&gt;售&lt;br&gt;状&lt;br&gt;况&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="21" y="310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plGlUH5s6CTPv3xWeVoY-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="plGlUH5s6CTPv3xWeVoY-176" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="180" y="490" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="plGlUH5s6CTPv3xWeVoY-177" value="调整/限制规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
@@ -82,10 +82,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="plGlUH5s6CTPv3xWeVoY-181" value="单店需求量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1168" y="245" width="80" height="30" as="geometry" />
+          <mxGeometry x="1160" y="165" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="plGlUH5s6CTPv3xWeVoY-182" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="310" width="660" height="120" as="geometry" />
+          <mxGeometry x="1162" y="230" width="660" height="120" as="geometry" />
         </mxCell>
         <mxCell id="plGlUH5s6CTPv3xWeVoY-183" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="plGlUH5s6CTPv3xWeVoY-182">
           <mxGeometry width="660" height="40" as="geometry" />
