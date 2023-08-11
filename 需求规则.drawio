@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T12:34:53.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="PteUeGPSbXTmOqP6CC-M" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T12:36:06.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="BXcYzijF6W70yWia0dLS" version="21.6.7" type="github">
   <diagram name="第 1 页" id="GlqfTS8_M40UGAXC7Djb">
-    <mxGraphModel dx="3465" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,13 +328,13 @@
         <mxCell id="plGlUH5s6CTPv3xWeVoY-237" value="1.根据预测标签（需补货）筛选符合条件的SKC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="498" y="320" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plGlUH5s6CTPv3xWeVoY-238" value="1. 根据销补规则计算补货需求量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="plGlUH5s6CTPv3xWeVoY-238" value="2. 根据销补规则计算补货需求量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="860" y="320" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="plGlUH5s6CTPv3xWeVoY-239" value="1.根据预测标签（可退货）筛选符合条件的SKC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="498" y="380" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plGlUH5s6CTPv3xWeVoY-240" value="1. 根据退货规则计算可退量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="plGlUH5s6CTPv3xWeVoY-240" value="2. 根据退货规则计算可退量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="860" y="380" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="plGlUH5s6CTPv3xWeVoY-241" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.174496644295302;endSize=2.4134228187919464;width=5.6375838926174495;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
