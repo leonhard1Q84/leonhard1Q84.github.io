@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T06:17:59.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="qOZ833pubw4ruvnx1-nH" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T06:18:56.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="KG-OSMJJL01zwAbEeZ9F" version="21.7.4" type="github">
   <diagram name="第 1 页" id="3W-qNyAslOVX8rs-bLyV">
-    <mxGraphModel dx="2059" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,8 +280,8 @@
         <mxCell id="cDIWluWBUJS4sIbsqJ_c-203" value="定义标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-239" y="88.12" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cDIWluWBUJS4sIbsqJ_c-204" value="基于节点的同期清洗逻辑框架图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="10" width="250" height="30" as="geometry" />
+        <mxCell id="cDIWluWBUJS4sIbsqJ_c-204" value="基于节点对齐的同期清洗逻辑框架图V1.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-849" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
