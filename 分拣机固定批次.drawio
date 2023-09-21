@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T08:34:25.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="gzjO1D0USSOjHC0ogIET" version="21.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-21T08:43:17.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="La00VNhTBlbnYFXB3OrL" version="21.8.0" type="github" pages="2">
   <diagram name="分拣机" id="7ls-2by8iXR--FHcD4sd">
-    <mxGraphModel dx="1511" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
         <mxCell id="R8J84A51hZVeDscX3uvi-70" value="切换新规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="-695" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R8J84A51hZVeDscX3uvi-71" value="仅保留最近40W分拣指令" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="R8J84A51hZVeDscX3uvi-71" value="清理程序：&lt;br&gt;仅保留最近40W分拣指令" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="-755" width="195" height="95" as="geometry" />
         </mxCell>
         <mxCell id="R8J84A51hZVeDscX3uvi-72" value="分拣机批次号迭代需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="--LceoHpjNaNkV9F9HDB" name="上下架">
-    <mxGraphModel dx="1008" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,10 +136,7 @@
           <mxGeometry x="165" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ng95AV_SSdDLVy4I-YVZ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="295" y="185" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ng95AV_SSdDLVy4I-YVZ-20" value="分拣机 分拣指令表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="295" y="185" width="135" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ng95AV_SSdDLVy4I-YVZ-21" value="生成上架指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="185" y="200" width="100" height="30" as="geometry" />
@@ -152,6 +149,9 @@
         </mxCell>
         <mxCell id="Ng95AV_SSdDLVy4I-YVZ-25" value="新品上架指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O6W6z60n8xpAJ1EDYVhX-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;云集库位匹配上架&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="205" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
