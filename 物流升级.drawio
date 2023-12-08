@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T03:01:01.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="EyC9HHo8PYwP43Krj2LD" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T03:01:57.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="KNjQ3VZHw0FF7DUnPpNA" version="22.1.7" type="github">
   <diagram name="第 1 页" id="MfdU1NOvAqZ90NUEq-HO">
-    <mxGraphModel dx="1655" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,8 @@
         <mxCell id="vt--YP0vScYUAHWYGEoM-14" value="采购下单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="85" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vt--YP0vScYUAHWYGEoM-15" value="以吊牌唯一码流转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="306.66" width="120" height="30" as="geometry" />
+        <mxCell id="vt--YP0vScYUAHWYGEoM-15" value="以吊牌唯一码流转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFF33;fontSize=9;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="685" y="311.66" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vt--YP0vScYUAHWYGEoM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vt--YP0vScYUAHWYGEoM-18" target="vt--YP0vScYUAHWYGEoM-19">
           <mxGeometry relative="1" as="geometry" />
@@ -124,7 +124,7 @@
         <mxCell id="vt--YP0vScYUAHWYGEoM-59" value="新方案供应物流业务职能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="475" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vt--YP0vScYUAHWYGEoM-60" value="新增 买手复核节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+        <mxCell id="vt--YP0vScYUAHWYGEoM-60" value="新增 &lt;b&gt;买手复核&lt;/b&gt;节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="780" y="85" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vt--YP0vScYUAHWYGEoM-62" value="商品/信息部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
