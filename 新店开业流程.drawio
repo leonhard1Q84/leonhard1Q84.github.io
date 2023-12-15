@@ -1,9 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T06:18:31.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.9" etag="nJ99w_MXNFWhV_SUlE4z" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T08:12:34.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SFBYkkSL6mV5-EsAJVZ7" version="22.1.9" type="github">
   <diagram name="第 1 页" id="Qi4DfdN9EhDK-vNyg_Y9">
-    <mxGraphModel>
+    <mxGraphModel dx="1394" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pdOY6x-4XydQng8eR4wh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" width="800" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-3" value="开闭店管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="150" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-5" value="开店管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="45" y="50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-6" value="开店立项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="170" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-8" value="开店筹备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-13" value="人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-14" value="货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="290" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-15" value="场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="360" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-17" value="开店营业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="554.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="600" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-19" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="460" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-20" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="521" width="460" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-21" value="门店信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-22" value="股东投资信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-23" value="合同/协议信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-24" value="人员招聘" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-25" value="人员调配" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-26" value="货品结构划分" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-27" value="采购计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-28" value="货品配送" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-29" value="人员培训" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-30" value="工程立项" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="363" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-31" value="方案设计" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="363" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-32" value="工程预算" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="363" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-33" value="工程筹备" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-34" value="施工管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-35" value="工程验收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-36" value="宽带办理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="456" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-37" value="物资准备" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="456" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-38" value="门店验收" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="456" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-39" value="开业活动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="564.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-40" value="商品陈列" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="564.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-42" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="890" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-43" value="问题项：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pdOY6x-4XydQng8eR4wh-44" value="&lt;h1&gt;问题项&lt;/h1&gt;&lt;p&gt;1. 销售部立项中，工程进场时间如何确定？&lt;/p&gt;&lt;p&gt;2. 销售部的人员调配、培训是否需要在流程中体现？&lt;/p&gt;&lt;p&gt;3. 重装修和新开店，在整个流程中有哪些区别？&lt;/p&gt;&lt;p&gt;3.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="60" width="190" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
