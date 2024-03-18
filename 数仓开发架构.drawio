@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T02:25:25.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="29KWWjn_ZDmK8yEIAQfw" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T02:13:36.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="AH1XZvRHWWBoeimgUwUw" version="24.0.5" type="github">
   <diagram name="第 1 页" id="tnTIpBN4VGgKGDry-OUr">
     <mxGraphModel dx="2192" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,13 +34,13 @@
         <mxCell id="9K30tG2bYkVrdAhRxkby-76" value="CDM层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="427.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9K30tG2bYkVrdAhRxkby-77" value="DMI维度表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="9K30tG2bYkVrdAhRxkby-77" value="DIM维度表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="120" y="337.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9K30tG2bYkVrdAhRxkby-78" value="商品表" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="215" y="322.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9K30tG2bYkVrdAhRxkby-79" value="商品：品类-面料-袖长-色系维度" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9K30tG2bYkVrdAhRxkby-79" value="商品：品类-面料-袖长维度" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="437" y="322.5" width="193" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9K30tG2bYkVrdAhRxkby-80" value="时间" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;" parent="1" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="9K30tG2bYkVrdAhRxkby-93" value="生产在途量参数表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="667" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9K30tG2bYkVrdAhRxkby-94" value="翻单头产量参数表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9K30tG2bYkVrdAhRxkby-94" value="翻单投产量参数表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="667" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9K30tG2bYkVrdAhRxkby-95" value="季中测算商品导入表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
