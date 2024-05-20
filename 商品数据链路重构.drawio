@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T07:05:34.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="oJ6Cx6WTygh_uW-P0sdb" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-20T07:08:15.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="HRt8goiqtaYD2HeTxRGU" version="24.4.4" type="github" pages="4">
   <diagram id="hLt2EyQm_AnAZm43s85D" name="1.商品信息表">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
   </diagram>
   <diagram id="uFfG-L32zHSkmfXhV94Y" name="2. 数据链路" />
   <diagram id="n2dbUgwvxI89DgrGuIAP" name="3. 开发框架内容">
-    <mxGraphModel dx="3827" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,16 +461,16 @@
         <mxCell id="YFK2U5YOK2V4PJJ-3JnH-120" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="106" width="440" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-121" value="1. 企划案审批流程" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-121" value="企划案审批流程" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="136" y="116" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-122" value="2. 企划案设计规划表单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-122" value="企划案设计规划表单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="311" y="116" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-123" value="3. 款式设计任务流程" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-123" value="款式设计任务流程" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="310" y="201" width="161" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-124" value="4.款式变更单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF8000;dashed=1;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-124" value="款式变更单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF8000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="199" width="76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YFK2U5YOK2V4PJJ-3JnH-125" value="&lt;span&gt;企&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;划&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;设&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
@@ -488,13 +488,13 @@
         <mxCell id="YFK2U5YOK2V4PJJ-3JnH-129" value="生产跟踪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="60" y="319" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-130" value="1. 商品生产计划&lt;div&gt;（件数确认）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-130" value="商品生产计划&lt;div&gt;（件数确认）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="133.5" y="287" width="160" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-131" value="2. 款式物料清单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-131" value="款式物料清单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="311" y="289" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-132" value="3. 物料清单变更申请" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;dashed=1;dashPattern=8 8;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-132" value="物料清单变更申请" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;dashed=1;dashPattern=8 8;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="133.5" y="349" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YFK2U5YOK2V4PJJ-3JnH-133" value="商品尺码参数" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="1">
@@ -560,13 +560,13 @@
         <mxCell id="YFK2U5YOK2V4PJJ-3JnH-153" value="T+ 财务系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1170" y="79" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-154" value="1. 新面辅料维护" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-154" value="存货面辅料档案" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1200" y="129" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-155" value="2. 物料清单数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-155" value="物料清单数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1385" y="129" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-156" value="3. 成品档案" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="YFK2U5YOK2V4PJJ-3JnH-156" value="存货成品档案" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1200" y="199" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YFK2U5YOK2V4PJJ-3JnH-157" value="生产加工单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
