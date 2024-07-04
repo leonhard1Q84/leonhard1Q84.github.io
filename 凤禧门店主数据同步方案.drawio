@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T03:25:35.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ABYo9kt2vFnkN_Ksd5Pt" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T03:26:16.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="dEd2ImWDEiDG_z9evYWW" version="24.4.13" type="github">
   <diagram name="Page-1" id="SlPPZgfnaXLjOwniqgNr">
     <mxGraphModel dx="1532" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="0XKQ3m4j26IBJblmZRhE-14" value="2.1&amp;nbsp; 风险调查（合作方背景调查表）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="226" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0XKQ3m4j26IBJblmZRhE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0XKQ3m4j26IBJblmZRhE-17">
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="89.99999999999977" y="270" as="sourcePoint" />
           </mxGeometry>
