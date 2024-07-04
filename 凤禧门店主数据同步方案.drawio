@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T03:26:16.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="dEd2ImWDEiDG_z9evYWW" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T05:00:22.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="tTPFXcvEVrINfFBQWn2t" version="24.4.13" type="github">
   <diagram name="Page-1" id="SlPPZgfnaXLjOwniqgNr">
-    <mxGraphModel dx="1532" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1660" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0XKQ3m4j26IBJblmZRhE-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry width="360" height="830" as="geometry" />
+          <mxGeometry width="360" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-10" value="简道云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry width="60" height="30" as="geometry" />
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="560" height="640" as="geometry" />
+          <mxGeometry x="430" y="190" width="560" height="860" as="geometry" />
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-21" value="帆软" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="430" y="200" width="50" height="30" as="geometry" />
@@ -116,6 +116,9 @@
         <mxCell id="0XKQ3m4j26IBJblmZRhE-49" value="完成提报" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="246" y="737.5" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XKQ3m4j26IBJblmZRhE-53" target="0XKQ3m4j26IBJblmZRhE-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-53" value="3.2 开店立项&lt;div&gt;（店铺重大变动任务提报表）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="76" y="747.5" width="150" height="60" as="geometry" />
         </mxCell>
@@ -136,7 +139,7 @@
         <mxCell id="0XKQ3m4j26IBJblmZRhE-66" value="" style="html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="450" y="540" width="510" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="0XKQ3m4j26IBJblmZRhE-67" value="新开店申请数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#CCCCCC;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-67" value="新开店申请数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-68" value="1）店铺基础信息&lt;div&gt;（店铺调查分析表）&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#CCCCCC;" vertex="1" parent="1">
@@ -151,7 +154,7 @@
         <mxCell id="0XKQ3m4j26IBJblmZRhE-71" value="" style="html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="450" y="700" width="250" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="0XKQ3m4j26IBJblmZRhE-72" value="开店立项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#CCCCCC;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-72" value="开店立项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="700" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-73" value="3. 开店立项&lt;div&gt;（店铺重大变动任务提报表）&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#CCCCCC;" vertex="1" parent="1">
@@ -187,7 +190,7 @@
         <mxCell id="0XKQ3m4j26IBJblmZRhE-86" value="" style="html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="720" y="700" width="250" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="0XKQ3m4j26IBJblmZRhE-87" value="合同审批数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#CCCCCC;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-87" value="合同审批数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="725" y="700" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-88" value="&lt;div&gt;（经销商合同签订工作表/&lt;/div&gt;&lt;div&gt;场地合同签订工作表&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#CCCCCC;" vertex="1" parent="1">
@@ -258,6 +261,51 @@
             <mxPoint x="1000" y="520" as="sourcePoint" />
             <mxPoint x="1075" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XKQ3m4j26IBJblmZRhE-121" target="0XKQ3m4j26IBJblmZRhE-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XKQ3m4j26IBJblmZRhE-121" target="0XKQ3m4j26IBJblmZRhE-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-121" value="4 店铺调整&lt;div&gt;&lt;div&gt;经销商合同签订工作表/&lt;/div&gt;&lt;div&gt;场地合同签订工作表&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="76" y="850" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0XKQ3m4j26IBJblmZRhE-122" target="0XKQ3m4j26IBJblmZRhE-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-122" value="5 闭店立项&lt;div&gt;（店铺重大变动任务提报表）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="76" y="950" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0XKQ3m4j26IBJblmZRhE-123" target="0XKQ3m4j26IBJblmZRhE-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-123" value="流转完成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0XKQ3m4j26IBJblmZRhE-125" target="0XKQ3m4j26IBJblmZRhE-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-125" value="流转完成" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-129" value="" style="html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="450" y="840" width="250" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-130" value="店铺信息变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="840" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-131" value="4 店铺调整（面积、位置、楼层等）&lt;div&gt;&lt;div&gt;经销商合同签订工作表/&lt;/div&gt;&lt;div&gt;场地合同签订工作表&lt;/div&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="470" y="870" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-132" value="" style="html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="720" y="840" width="250" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-134" value="5 闭店立项&lt;div&gt;（店铺重大变动任务提报表）&lt;br&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="740" y="870" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-136" value="闭店立项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="840" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
