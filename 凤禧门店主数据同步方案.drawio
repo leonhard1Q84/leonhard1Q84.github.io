@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T05:00:22.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="tTPFXcvEVrINfFBQWn2t" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T07:51:18.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="TAaSVjfq7O3DZ7Hazyg7" version="24.4.13" type="github">
   <diagram name="Page-1" id="SlPPZgfnaXLjOwniqgNr">
-    <mxGraphModel dx="1660" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,17 +196,17 @@
         <mxCell id="0XKQ3m4j26IBJblmZRhE-88" value="&lt;div&gt;（经销商合同签订工作表/&lt;/div&gt;&lt;div&gt;场地合同签订工作表&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="740" y="730" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0XKQ3m4j26IBJblmZRhE-89" value="门店合同信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="636.5" y="250" width="103.5" height="70" as="geometry" />
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-89" value="门店合同信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="643.25" y="250" width="83.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0XKQ3m4j26IBJblmZRhE-90" value="门店店员配置" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="250" width="95" height="70" as="geometry" />
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-90" value="门店店员配置" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="250" width="77.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-92" value="门店基础信息表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="511" y="335" width="370" height="100" as="geometry" />
+          <mxGeometry x="511" y="335" width="429" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0XKQ3m4j26IBJblmZRhE-93" value="门店联系人" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="770" y="250" width="100" height="70" as="geometry" />
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-93" value="门店联系人" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="250" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="430" width="560" height="150" as="geometry" />
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="0XKQ3m4j26IBJblmZRhE-136" value="闭店立项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="840" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XKQ3m4j26IBJblmZRhE-139" value="门店账号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#CCCCCC;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="250" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
