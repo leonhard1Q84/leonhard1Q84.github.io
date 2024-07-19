@@ -1,9 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T03:05:25.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.4" etag="46KeabKFlNTJ9YZfGfvi" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T05:10:25.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="YZ5uNW7FmrEKEmaN46MU" version="24.6.4" type="github">
   <diagram name="Page-1" id="GSHs5tq8THpnzeVwa1IB">
-    <mxGraphModel>
+    <mxGraphModel dx="2482" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3HgayADD20QE-_vMkKj_-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-900" width="1180" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-734" width="190" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-86" value="入库管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="-729" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-87" value="收货确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-88" value="上架管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-734" width="640" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-90" value="分拣管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-724" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-91" value="分拣指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="-674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-92" value="拣选道口配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="-674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-93" value="（临时）分拣任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="-674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-94" value="分拣记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-554" width="640" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-96" value="库内作业" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-544" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-97" value="移库管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="-494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-98" value="盘点管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-99" value="打包贴标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-100" value="吊牌打印" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-734" width="190" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-102" value="出库管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-729" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-103" value="下架管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-104" value="装车发运" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-880" width="610" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-106" value="报表统计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-107" value="人效统计报表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-108" value="出入库明细报表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-109" value="库存周转统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-880" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-111" value="库存交易日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-112" value="库存管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-113" value="实时库存查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-400" width="640" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-115" value="基础档案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="-360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-116" value="仓库管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-241" y="-375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-117" value="货架管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-91" y="-375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-118" value="货位管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="-375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-119" value="车辆司机管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="-375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-400" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-121" value="策略参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-354" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-122" value="上架策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-123" value="商品库容系数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HgayADD20QE-_vMkKj_-124" value="拣货策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="-369" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
