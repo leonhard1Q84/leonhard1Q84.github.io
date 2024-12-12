@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="Fvx1Lx8XRc5BwnDMXlwD">
-    <mxGraphModel dx="1833" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2063" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,6 +310,135 @@
             <Array as="points">
               <mxPoint x="100" y="440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-96" value="委托代销说明：&#xa;委托代销是指企业委托渠道或代理商销售商品，并在渠道或代理商真正销售后才和企业结算的&#xa;销售流程。委托代销的销售对象不是最终消费者，而是渠道或代理商。委托代销一般和客户定&#xa;期结算。" style="shape=table;startSize=115;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;align=left;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1140" y="545" width="670" height="585" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-97" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-96">
+          <mxGeometry y="115" width="670" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-98" value="序号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-97">
+          <mxGeometry width="90" height="34" as="geometry">
+            <mxRectangle width="90" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-99" value="&lt;span style=&quot;white-space: pre;&quot;&gt;业务过程&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-97">
+          <mxGeometry x="90" width="190" height="34" as="geometry">
+            <mxRectangle width="190" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-100" value="&lt;span style=&quot;white-space: pre;&quot;&gt;操作说明&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-97">
+          <mxGeometry x="280" width="390" height="34" as="geometry">
+            <mxRectangle width="390" height="34" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-101" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-96">
+          <mxGeometry y="149" width="670" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-102" value="1." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-101">
+          <mxGeometry width="90" height="36" as="geometry">
+            <mxRectangle width="90" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-103" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px; text-align: justify;&quot;&gt;销售订单&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-101">
+          <mxGeometry x="90" width="190" height="36" as="geometry">
+            <mxRectangle width="190" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-104" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px; text-align: justify;&quot;&gt;由销售员在系统中制定销售订单处理（销售订单的业务类型为“委托代销”）&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-101">
+          <mxGeometry x="280" width="390" height="36" as="geometry">
+            <mxRectangle width="390" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-105" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-96">
+          <mxGeometry y="185" width="670" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-106" value="2." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-105">
+          <mxGeometry width="90" height="66" as="geometry">
+            <mxRectangle width="90" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-107" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px; text-align: justify;&quot;&gt;通知发货&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-105">
+          <mxGeometry x="90" width="190" height="66" as="geometry">
+            <mxRectangle width="190" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-108" value="&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px; font-family: 宋体;&quot;&gt;由销售员通过销售订单下推生成发货通知单处理。&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px; font-family: 宋体;&quot;&gt;注：如企业没有通知发货的业务需求，则此步骤可以省略，即通过销售订单直接生成销售出库单。&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-105">
+          <mxGeometry x="280" width="390" height="66" as="geometry">
+            <mxRectangle width="390" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-127" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-96">
+          <mxGeometry y="251" width="670" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-128" value="3." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-127">
+          <mxGeometry width="90" height="56" as="geometry">
+            <mxRectangle width="90" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-129" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px; text-align: justify;&quot;&gt;发出商品&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-127">
+          <mxGeometry x="90" width="190" height="56" as="geometry">
+            <mxRectangle width="190" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-130" value="&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12px;&quot;&gt;由仓管员通过上拉发货通知单生成销售出库单处理（销售出库单的事务类型为“委托代销发出”）。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-127">
+          <mxGeometry x="280" width="390" height="56" as="geometry">
+            <mxRectangle width="390" height="56" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-131" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-96">
+          <mxGeometry y="307" width="670" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-132" value="4." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-131">
+          <mxGeometry width="90" height="105" as="geometry">
+            <mxRectangle width="90" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-133" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px; text-align: justify;&quot;&gt;委托代销结算&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-131">
+          <mxGeometry x="90" width="190" height="105" as="geometry">
+            <mxRectangle width="190" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-134" value="&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px; font-family: 宋体;&quot;&gt;代理商对已经正式销售的商品清单提供给销售员，销售员根据历史的发出商品并结合客户提供销售清单进行结算，结算后生成相应的结算记录，并自动生成委托代销售出事务类型的销售出库单，作为开票的依据。&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px; font-family: 宋体;&quot;&gt;由销售员通过系统中的委托代销结算功能处理。&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-131">
+          <mxGeometry x="280" width="390" height="105" as="geometry">
+            <mxRectangle width="390" height="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-135" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-96">
+          <mxGeometry y="412" width="670" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-136" value="5." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-135">
+          <mxGeometry width="90" height="101" as="geometry">
+            <mxRectangle width="90" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-137" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px; text-align: justify;&quot;&gt;确定应收，与外部客户进行结算&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-135">
+          <mxGeometry x="90" width="190" height="101" as="geometry">
+            <mxRectangle width="190" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-138" value="&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px; font-family: 宋体;&quot;&gt;由往来会计通过上拉销售出库单生成应收单，与外部客户作销售结算。&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9pt; line-height: 18px; font-family: 宋体;&quot;&gt;注：此处的销售出库单指结算后系统自动生成的事务类型为“委托代销售出”的销售出库单，而非在发出商品时生成的事务类型为“委托代销发出”的销售出库单。&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-135">
+          <mxGeometry x="280" width="390" height="101" as="geometry">
+            <mxRectangle width="390" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-139" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-96">
+          <mxGeometry y="513" width="670" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-140" value="6." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-139">
+          <mxGeometry width="90" height="72" as="geometry">
+            <mxRectangle width="90" height="72" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-141" value="&lt;span style=&quot;font-family: 宋体; font-size: 12px; text-align: justify;&quot;&gt;收款&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-139">
+          <mxGeometry x="90" width="190" height="72" as="geometry">
+            <mxRectangle width="190" height="72" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmLQg6TthY4_tEl8E41E-142" value="&lt;p style=&quot;margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;; text-align: justify; line-height: 21px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12px;&quot;&gt;由往来会计通过应收单下推生成收款单处理，待出纳收到款项时进行确认收款。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="jmLQg6TthY4_tEl8E41E-139">
+          <mxGeometry x="280" width="390" height="72" as="geometry">
+            <mxRectangle width="390" height="72" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
