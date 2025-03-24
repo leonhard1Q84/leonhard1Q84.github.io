@@ -439,7 +439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZHy_tsYcnCBhMe2iuFRe" name="第 3 页">
-    <mxGraphModel dx="3269" dy="2797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3880" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,10 +464,10 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-96" value="公司组织" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-490" y="534" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-97" value="仓库管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-97" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;仓库管理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="12" y="643.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-99" value="往来单位管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-99" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;往来单位管理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-490" y="637.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -479,10 +479,10 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-103" value="计量单位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="228" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-104" value="币种汇率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-104" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;币种汇率&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="676" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-105" value="费用项目" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-105" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;费用项目&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -491,10 +491,10 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-110" value="配置参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="517" y="475" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-111" value="进销存参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-111" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;进销存参数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="505" width="120" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-112" value="系统基础参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-112" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;系统基础参数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="228" y="505" width="120" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -509,10 +509,10 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-119" value="采购管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-396.5" y="-108" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-120" value="采购订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-120" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;采购订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-543" y="-72" width="103" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-121" value="采购协议" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-121" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;采购协议&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-401.5" y="-69.5" width="103" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-122" value="货运提单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -542,10 +542,10 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-136" value="销售订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-550" y="187" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-138" value="采购退货" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-138" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;采购退货&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-543" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-139" value="销售退货" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-139" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;销售退货&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-90" y="187" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -554,16 +554,16 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-141" value="仓库管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-290" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-142" value="库存查询(实时/历史）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-142" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;库存查询(实时/历史）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-550" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-143" value="其他出入库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-390" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-144" value="库存调整" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-144" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;库存调整&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-235.5" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-145" value="库存盘点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-145" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;库存盘点&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-90" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -572,7 +572,7 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-147" value="财务应用" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="168" y="200" width="35" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-148" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-148" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="228" y="87" width="620" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-149" value="应收应付" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
@@ -581,7 +581,7 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-150" value="收/付款单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="248" y="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-151" value="收/付退款单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-151" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;收/付退款单&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="408" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-152" value="其他收付款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -590,7 +590,7 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-153" value="核销单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="408" y="200" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-154" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-154" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="708" y="270" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-155" value="发票管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
@@ -602,22 +602,22 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-157" value="销项票管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="734" y="356.75" width="80" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-158" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-158" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="445" y="270" width="243" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-159" value="货权管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="531.5" y="274" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-160" value="货权转移单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-160" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;货权转移单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="478" y="307.25" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-161" value="赎货申请表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-161" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;赎货申请表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="478" y="353.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-162" value="应付单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="248" y="200" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-164" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-164" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="228" y="270" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-165" value="现金出纳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
@@ -638,7 +638,7 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-179" value="客户关系管理" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="168" y="-85" width="35" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-180" value="客户管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-180" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;客户管理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="258" y="-98" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-181" value="线索管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -647,7 +647,7 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-182" value="商机管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="-98" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-183" value="业绩目标管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-183" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;业绩目标管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="481.5" y="-23" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-184" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
@@ -710,10 +710,10 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-227" value="经营分析表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="740" y="-280.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-228" value="财务参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-228" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;财务参数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="676" y="505" width="120" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-229" value="预警参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-229" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;预警参数&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="559.37" width="120" height="41.25" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-230" value="部门管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -728,13 +728,13 @@
         <mxCell id="kjLwur-1zS9AVrY2SOme-233" value="银行日记账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="258" y="355" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-234" value="息费单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-234" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;息费单&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="565" y="200" width="120" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-235" value="联系人管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="258" y="-23" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kjLwur-1zS9AVrY2SOme-236" value="货权流水表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="kjLwur-1zS9AVrY2SOme-236" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;货权流水表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="578" y="309" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="kjLwur-1zS9AVrY2SOme-237" value="应收单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
