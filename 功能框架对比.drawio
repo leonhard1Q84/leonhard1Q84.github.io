@@ -795,7 +795,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ft3ZxsagyjYnUXWOGYGm" name="第 4 页">
-    <mxGraphModel dx="3637" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2700" dy="2408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -898,10 +898,10 @@
         <mxCell id="C23iw_9NVKmc_sbfH5kd-39" value="采购入库单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-390" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C23iw_9NVKmc_sbfH5kd-40" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;库存调整&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#331A00;" vertex="1" parent="1">
+        <mxCell id="C23iw_9NVKmc_sbfH5kd-40" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;销售出库单&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#331A00;" vertex="1" parent="1">
           <mxGeometry x="-235.5" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C23iw_9NVKmc_sbfH5kd-41" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;库存盘点&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#331A00;" vertex="1" parent="1">
+        <mxCell id="C23iw_9NVKmc_sbfH5kd-41" value="&lt;b&gt;实时库存&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#331A00;" vertex="1" parent="1">
           <mxGeometry x="-90" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C23iw_9NVKmc_sbfH5kd-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
